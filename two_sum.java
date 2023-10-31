@@ -35,8 +35,5 @@ class TwoSum {
         }
         System.out.println("target not found");
         sc.close();
-
-// testing push
-
     }
 }
