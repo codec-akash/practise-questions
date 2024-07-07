@@ -14,8 +14,6 @@ public class ThreeSum {
         }
         System.out.println("Enter the target");
 
-        int target = sc.nextInt();
-
         ThreeSum threeSum = new ThreeSum();
 
         List<List<Integer>> ans = threeSum.threeSum(arr);
